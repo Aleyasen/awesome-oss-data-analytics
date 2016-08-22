@@ -116,59 +116,59 @@ Non-native database management software allows businesses to store and manage da
 - Clusterpoint
 
 
-### Big Data
-- Hadoop HDFS
-- Cloudera
-- ContractRoom
-- Apache Pig
-- Hortonworks Data Platform
-- Encompass
-- Datawatch
-- IBM SPSS Text Analytics for Surveys (IBM Stafs)
-- CrowdFlower
-- Datorama
-- Talend Big Data Platform
-- OdinText
-- Datameer
-- Zing JVM Java Virtual Machine
-- EXASOL
-- Origin Demand Side Platform
-- predixion
-- insightXM
-- Revolution Analytics
-- Context Relevant
-- MapR
-- prevero
-- Wizeline
-- Altmetrics.com
-- Data Dojo
-- Metric Insights
-- Globys
-- Data Science Studio (DSS)
-- Retention Science
-- UnboundID Platform
-- WSO2 Business Activity Monitor
-- Databricks
-- BigML
-- Bright Computing
-- GridGain
-- Guavus
-- Zettaset BDEncrypt
-- RealZips GeoData Platform for Salesforce.com
-- Numenta
-- UserIQ
-- Omniata
-- OptimaHub SingleView
-- SuperBrain Dashboard
-- XLeratorDB
-- Evolution Platform
-- EdgeMagic
-- AirVantage M2M Cloud
-- Loginworks Datastream
-- Axibase Time Series Database
-- Trillium Refine
-- Clear Demand Pricing Optimization
-- DataPlay
+### Big Data	
+- [Hadoop HDFS](): Hadoop HDFS is a distributed, scalable, and portable filesystem written in Java.
+- [Cloudera](): Cloudera Enterprise Core provides a single Hadoop storage and management platform that natively combines storage, processing and exploration for the enterprise.
+- [ContractRoom](): Negotiation platform that simplifies the contracting process and “learns” from all behavior and deal data to optimize future decisions - Predictive AgreementTM.
+- [Apache Pig](): Apache Pig is a platform for analyzing large data sets that consists of a high-level language for expressing data analysis programs, coupled with infrastructure for evaluating these programs. The salient property of Pig programs is that their structure is amenable to substantial parallelization, which in turns enables them to handle very large data sets.
+- [Hortonworks Data Platform](): Hadoop Distribution
+- [Encompass](): Get the full picture, fast.
+- [Datawatch](): 
+- [IBM SPSS Text Analytics for Surveys (IBM Stafs)](): IBM SPSS Text Analytics for Surveys software lets you transform unstructured survey text into quantitative data and gain insight using sentiment analysis. The solution uses natural language processing (NLP) technologies specifically designed for survey text.
+- [CrowdFlower](): People Powered Data Enrichment
+- [Datorama](): Illuminating Marketing Performance
+- [Talend Big Data Platform](): Talend simplifies big data integration with graphical tools and wizards that generate native code so you can start working with Apache Hadoop, Apache Spark, Spark Streaming and NoSQL databases today. Talend Big Data Integration platform delivers high-scale, in-memory fast data processing, as part of the Talend Data Fabric solution, so your enterprise can turn more and more data into real-time decisions.
+- [OdinText](): Anderson Analytics is a market research firm to leverage text analytics and their patent pending SaaS Text Analytics platform OdinText can be used to quickly analyze unstructured data ranging from large scale VoC surveys to customer call center logs/emails or social media data.
+- [Zing JVM Java Virtual Machine](): Zing® is a better JVM with better metrics that is certified fully compliant with the Java SE 8, 7 or 6 specification.
+- [Datameer](): Your big data insights platform
+- [EXASOL](): EXASOL is a high-performance, in-memory, MPP database specifically designed for in-memory analytics. From business-critical data applications to advanced analytics, the database helps you to analyze large volumes of data in real-time, helping you to accelerate your BI and reporting, and to turn data into value.
+- [Origin Demand Side Platform](): Centralized audience building, optimization, and data management
+- [predixion](): Predixion simplifies the entire predictive process to deliver actionable predictive insights to the point of decision faster than ever before.
+- [insightXM](): Sorting data is about as fun as sorting your recycling. Luckily, sifting through info is kind of our thing.
+- [MapR](): MapR delivers on the promise of Hadoop with a proven, enterprise-grade platform that supports many mission-critical and real-time production uses. MapR brings unprecedented dependability, ease-of-use, and world-record speed to Hadoop, NoSQL, database and streaming applications in one unified Big Data platform.
+- [prevero](): prevero»p7 enables you to create of all kinds of business-management applications without requiring any programming skills.
+- [Revolution Analytics](): Big Data Big Analytics Software Innovation, performance and value for today's data architecture.
+- [Context Relevant](): Predictive analytics for big data.
+- [Wizeline](): Track Customer Engagement. Forecast Product Success
+- [Metric Insights](): Metric Insights provides a Push Intelligence platform that lets you know when your key business metrics change and why.
+- [Data Science Studio (DSS)](): DSS is the a productive development platform for data professionals. This all-in-one tool integrates all the capabilities required to build end-to-end highly specific services that turn raw data into business impacting predictions quickly.
+- [Databricks](): Making big data simple
+- [Numenta](): Numenta is a machine intelligence solution that delivers capabilities and demonstrates a computing approach based on biological learning principles to help you manage your business.
+- [Globys](): Globys out-of-the-box, proprietary software uses advanced analytics to execute and optimize the right experiences at the right time, increasing customer engagement and retention.
+- [Data Dojo](): Perceivant's real-time data analytics' services &amp; platform give companies access to their data in a quick, simple &amp; affordable way.
+- [Altmetrics.com](): We've created and maintain a cluster of servers that watch social media sites, newspapers, government policy documents and other sources for mentions of scholarly articles. We bring all the attention together to compile article level metrics. We work with publishers, funders and institutions to present data &amp; metrics to end users, as well as offering a free bookmarklet for researchers to use directly.
+- [UnboundID Platform](): UnboundID Platform is an identity and preference management platform that allows you to enable new customer-facing digital business initiatives by capturing customer preferences, experiences, and more.
+- [Retention Science](): Retention Sciences data-driven platform predicts customer behavior to deliver targeted communications.
+- [Guavus](): Guavus provides an operational intelligence platform integrated with a suite of next-generation analytics applications for planning, operations and marketing.
+- [GridGain](): Build insanely fast apps
+- [BigML](): Enjoy the power of Programmatic Machine Learning
+- [Bright Computing](): Bright Computing provides comprehensive software solutions for provisioning and managing HPC clusters, Hadoop clusters, and OpenStack private clouds in your data center or in the cloud.
+- [RealZips GeoData Platform for Salesforce.com](): The native RealZips app provides instant Zip codes and business GeoData. Analytics and workflows: sales territory management, web-to-lead, lead assignment &amp; ownership alignment and predictive analytics.
+- [Zettaset BDEncrypt](): Performance-Optimized Big Data Encryption for Hadoop, NoSQL, and Relational databases
+- [WSO2 Business Activity Monitor](): Serving the needs of both business and IT domain experts to monitor and understand business activities within SOA and Cloud deployments, WSO2 BAM is not only designed to monitor SOA metrics, but can also be configured to monitor key business indicators. Additionally, you can extend WSO2 BAM to capture other general monitoring requirements as well.
+- [AirVantage M2M Cloud](): A high volume data acquisition engine combined with BigData storage, data summarization and notification features allow you to focus on building your applications knowing your infrastructure can scale to millions of devices.
+- [Trillium Refine](): Trillium Refine enables you to anticipate opportunities.
+- [Clear Demand Pricing Optimization](): Clear Demand solutions are cloud based, architected on Big Data and delivered as a SaaS solution for improved speed, flexibility and ease-of-use. Retail clients enjoy improved profitability, superior retail price strategy and price management with an adaptive platform that can be modified to a retailer unique business processes.
+- [EdgeMagic](): EdgeMagic RFID Software is designed to manage your edge devices, commission, write, read, and verify your RFID tags.
+- [XLeratorDB](): XLeratorDB is an In-Database Analytics calculation engine that provides a rich set of advanced high-speed financial, statistical and mathematical analytic functions designed to integrate seamlessly into database-driven applications.
+- [SuperBrain Dashboard](): SuperBrain is a Software-as-a-Service Dashboard for managing your most important business metrics and KPI's online. The power of SuperBrain Dashboard is the intelligence behind some of Smart KPI and SuperScore reports and the agility and the ease of use. It takes normally hours to create even simple dashboard with KPI's because of the planning and designing of KPI threshold. Smart KPI has an algorith that calculates the KPI high and low values for you automatically.
+- [UserIQ](): Automated and effective in-app data engine and engagement tool
+- [Omniata](): Omniata unifies data sources by integrating databases, in-app event streams and data from ad networks in one place. It provides powerful self-serve analytics, data visualization tools, and it can automatically deliver dynamic personalized content across mobile, web, push notifications and email, using advanced real-time segmentation and A/B testing.
+- [OptimaHub SingleView](): Multi-channel customer analytics and marketing automation in one central platform to tear down data silos and supercharge your team’s capabilities.
+- [Evolution Platform](): The Evolution Platform is a comprehensive data intelligence system fueled by big data and advanced analytics that are rooted in neuroscience. The system runs on an innovative cloud-based technology platform that collects, processes and analyzes millions of data points every day to organize, score and catalog information business executives need to make confident business decisions.
+- [Loginworks Datastream](): Loginworks Datastream provides a constant, reliable data flow. Datastream is used for: data analysis, data mining, and collecting/understanding big data. Datastream helps companies better understand their market and provides valuable insights to help increase sales.
+- [DataPlay](): DataPlay is a cloud based software suite that automates data management, analysis, and reporting processes, it has the ability to analyze SPSS data directly in PowerPoint and Excel helps researchers to cut of their manual work during analysis and report preparation process.
+- [Axibase Time Series Database](): ATSD is a distributed NoSQL database designed from the ground up to store and analyze time-series data at scale. Unlike most other databases, ATSD comes with a robust set of built-in features including Rule Engine, Visualization, Data Forecasting, Data Mining and more.
 
 ### Cloud Data Integration
 Cloud data integration software allows businesses to manage, cleanse, and integrate data from a web-based application. Cloud data integration solutions do not require any additional hardware or software to access.
