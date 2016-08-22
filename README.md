@@ -33,6 +33,13 @@ An incomplete-inaccurate curated list of open source alternatives for data analy
 
 - [Ayasdi Core](https://www.ayasdi.com/applications/clinical-variation/): Discover The Critical Intelligence In Your Data
 - [FICO Predictive Analytics](http://www.fico.com/en/predictive-analytics):FICO has developed new techniques and applied them to a wide range of business problems.
+- [SAS Advanced Analytics](): SAS advanced analytics software is infused with cutting-edge, innovative algorithms that can help you solve even your most intractable problems. Make the best decisions possible.
+- [RapidMiner Studio](): 
+- [IBM SPSS Statistics](): 
+- [BOARD](): 
+- [Cortana Analytics](): 
+- [KnowledgeCORE](): 
+- [Statistica](): 
 
 
 ### Application Performance Management (APM) 
@@ -221,7 +228,13 @@ Storage management software allows businesses to manage existing storage require
 - [NetDirector](): SaaS Cloud-based Data and Document Exchange. Our state-of-the-art platform enables disparate and incompatible systems to seamlessly communicate worldwide. NetDirector offers complete support for industry communications and file format options including: web services, FTP/s, HTTP/s, XML, flat files, spreadsheets, email and many others.
 - [Skyhatch Datarooms](): Skyhatch helps enterprise better manage information.
 - [GridBank Cloud Storage](): GridBank Cloud Storage delivers hardware-agnostic object-storage for internal and external cloud storage-as-a-service providers, offering high availability data access, cloud synchronization, business agility and workforce mobility
-
+- [Brocade SAN Network Advisor](): HP B-series SAN Network Advisor Software uses an intelligent dashboard that presents an at-a-glance summary of all discovered B-series and third-party IP devices, including inventory and event summary information.
+- [GridBank Cloud Storage](): GridBank Cloud Storage delivers hardware-agnostic object-storage for internal and external cloud storage-as-a-service providers, offering high availability data access, cloud synchronization, business agility and workforce mobility
+- [Storage Resource Monitor](): Comprehensive storage performance monitoring and alerting across all your storage arrays to ensure peak performance and avoid capacity surprises.
+- [SmartFlash](): Through your personal SmartFlash, you get an access to a super-secure unlimited cloud storage. It’s very simple: you don’t need to sign up and enter your login/password, you don’t even need a web browser! Now you can store and share files of any size anonymously and safely.
+- [infinite io](): Infinite io installs transparently in front of storage as a network-based controller and intelligently migrates inactive data to low-cost cloud storage. Data is constantly migrated to the cloud based on intelligent policies.
+- [Archiware P5 Archive](): Archiware P5 Archive is a software that move or migrate data offline to disk and tape.
+- [Qumulo](): Qumulo Core is a software-only solution that leverage the price/performance of commodity hardware coupled with the modern technologies of flash, virtualization and cloud.
 
 ### Transactional Email
 Transactional email software sends a message based on an action completed by the recipient. This software integrates with other marketing solutions like CRM and email marketing.
@@ -260,7 +273,118 @@ Transactional email software sends a message based on an action completed by the
 - RealVNC
 - QEMU
 
+### Artificial Intelligence
+- [Deepdream](): And this is where Google's deep dream ideas originate. With simple words you give to an AI program a couple of images and let it know what those images contain ( what objects - dogs, cats, mountains, bicycles, ... ) and give it a random image and ask it what objects it can find in this image.
+- [NavPower](): NavPower is an AI pathfinding middleware for the video game industry with NavGraph auto generation, dynamic obstacle avoidance, streaming and more with the ability to be used on platforms such as Playstation 4, Xbox One, Wii U and more.
+- [PathEngine](): PathEngine is a middleware toolkit for the implementation of intelligent agent movement, built around and implementation of points-of-visibility pathfinding on 3D ground surfaces.
+- [SimBionic](): SimBionic is a toolset for creating intelligent behaviors for simulations, games, and other interactive systems without programming that specify how people, systems, and other entities respond to user actions and other events.
+- [MASA LIFE](): MASA LIFE is an artificial intelligence for makers and not only coders that allows you to design how characters behave and how they interact with the world without code.
+- [Havok AI](): Havok AI is a runtime SDK for programmers and designers to create pathfinding, pathfollowing, and navigation mesh generation for dynamic environments.
+- [RAIN](): RAIN is an AI engine used by studios to create any character, in any game and platform, that is engineered to meet the challenges of creating interactive characters.
+- [Kythera](): Kythera is an AI middleware that delivers experiences through comprehensive core features including perception, target selection, cover usage, and group coordination.
+- [ECOSim](): ECOSim is a company-level training simulation that teaches leaders how best to deploy troops and more with focus on rapid scenario generation, runtime operator control, and realistic &amp; reactive human simulation.
+- [DI-Guy AI](): DI-Guy AI adds artificial intelligence to DI-Guy scenario enabling your IG to play performances created by others- and the characters will act out the performances appropriately.
 
+### Analytics & Forecasting
+- [Megalytic](): Megalytic is used by digital agencies, marketers and business owners for faster, more insightful and better looking analytics reports.
+- [Host Analytics](): Host Analytics delivers the only complete suite of cloud corporate performance management (CPM)
+- [Right90](): Right90 delivers a powerful suite of SaaS-based applications that enable companies to generate an actionable sales forecast that is used across the company to drive higher revenue, greater margins and increased sales performance.
+- [scout analytics](): Scout? Link for Sales provides predictive analytics to help you maximize customer lifetime value. Through predictive pricing, retention monitoring, and trial scoring, sales teams can increase revenues and profits 10-15 percent.
+- [OptimaHub SingleView](): Multi-channel customer analytics and marketing automation in one central platform to tear down data silos and supercharge your team’s capabilities.
+- [Stytch](): Stytch is a data analytics platform that provides business teams with everything they need to get more insights, faster—from data to dashboards. With flexible self-service data preparation tools, Stytch empowers business analysts to more easily blend and model their data, providing the foundation for better quality data discovery and reporting across the enterprise.
+- [Metamarkets](): Metamarkets is a SaaS solution that provides interactive analytics for programmatic marketing and help programmatic companies turn mountains of auction data into revenue-driving insights it allows instant drill-downs, real-time fresh data, and an intuitive self-service user interface.
+
+
+### Business Intelligence Platforms
+- [Tableau Desktop](): 
+- [Looker](): 
+- [Domo](): 
+- [Sisense](): 
+- [QlikView](): 
+- [GoodData](): 
+- [Style Intelligence](): 
+- [BOARD](): 
+- [Business Objects](): 
+- [Dundas BI](): 
+- [ZAP Business Intelligence](): 
+- [Oracle BI](): 
+- [MicroStrategy](): 
+- [TIBCO Spotfire](): 
+- [Tableau Server](): 
+- [Easy Insight](): 
+- [Pentaho](): 
+- [SAS Business Intelligence](): 
+- [IBM Cognos Analytics](): 
+- [Birst](): 
+
+### Embedded Business Intelligence
+- [Looker](): 
+- [Sisense](): 
+- [Exago](): 
+- [Izenda](): 
+- [Dundas BI](): 
+- [Windward Studios](): 
+- [Logi Info](): 
+- [Jaspersoft](): 
+- [Pentaho]():
+
+### Self-Service Business Intelligence
+- [SAP Crystal Reports](): 
+- [Chartio](): 
+- [Microsoft Power BI](): 
+- [Izenda](): 
+- [Dundas BI](): 
+- [Alteryx](): 
+- [Qlik Sense](): 
+- [Zoho Reports](): 
+- [Jaspersoft](): 
+- [Panorama Necto](): 
+- [Salesforce Wave Analytics](): 
+- [ReportServer](): 
+
+
+### Enterprise Search
+- [Google Enterprise Search](): Google delivers relevant results that increase the usability and value of your business information.
+- [CommVault Simpana](): Single platform to capture, move, retain, find, analyze, and recover data from any storage tier.
+- [Hawk Search](): Hawk Search delivers a scalable software solution that changes site search and merchandising into a customer experience management platform.
+- [Microsoft FAST](): Microsoft FAST Search Server 2010 for SharePoint combines the power of FAST with the simplicity of SharePoint. FAST Search Server 2010 for SharePoint delivers an exceptional intranet and people search experience and a platform for building custom search-driven applications.
+- [Coveo](): Coveo's Unified Indexing Platform consolidates information silos securely across enterprise, social and cloud-based systems
+- [Sphinx](): Search
+- [Lucene](): Lucene Core, our flagship sub-project, provides Java-based indexing and search technology.
+- [Lookeen](): Outlook add-on offering fast search within mails, attachments, contacts, tasks, and appointments in virtual desktop infrastructure (VDI) and enterprise search environments.
+- [FishEye](): Make better decisions, faster. Visualize and report on activity and search for commits, files, revisions, or teammates across SVN, Git, Mercurial, CVS and Perforce.
+- [Attivio AIE](): Attivio's Attivio's Active Intelligence Engine (AIE) combines the power of enterprise search, BI and big data for strategic applications and solutions that can be deployed on-premises or in the cloud.
+- [KonaSearch](): Enterprise Search solution that makes it easy to find Sales &amp; Service Cloud data, Custom Objects, Content and SharePoint, right from your Salesforce desktop.
+- [DevonAGENT Pro](): DEVONagent Pro queries all major and minor search engines, weeds out all the junk, and presents the really good stuff nicely ranked the way you want.
+- [Dassault Exalead](): Bridging the gap between people and today???s distributed, diverse big data In the enterprise and across the Internet, over 110 million people worldwide rely on EXALEAD CloudView?? to intuitively search, explore, and analyze information.
+- [Fabasoft Folio](): A revelation in website search. Imagine that every piece of content from your websites, blogs and social media channels could be found within seconds. Everything indexed remotely, securely and without using any additional software.
+- [HPE Idol](): The IDOL Server collects indexed data from connectors and stores it in its proprietary structure, optimized for fast processing and retrieval of data.
+- [IBM Vivisimo](): The Vivisimo Velocity Information Optimization Platform provides reliable, field-proven solutions across the full big data lifecycle, including data access, transformation, indexing, search, analysis and visualization.
+- [TextWise](): TextWise provides One-Click case/query matching to the most relevant answers across all information repositories.
+- [Perceptive Search](): Perceptive Search, formerly ISYS, is an enterprise search technology that uses document filters to index, analyze and display document text.
+- [Sinequa](): Sinequa provides a Cognitive Search &amp; Analytics platform for Fortune Global 2000 companies and government agencies. Using advanced Natural Language Processing (NLP) and Machine Learning algorithms, the solution offers insights extracted from structured and unstructured data. Broad connectivity to on-premise, cloud and Hadoop data sources facilitates and accelerates enterprise-wide projects.
+- [LucidWorks](): LucidWorks is the leading developer of search, discovery and analytics software based on Apache Lucene and Apache Solr technology.
+- [Varonis DatAnswers](): DatAnswers delivers relevant search results to the people who should have access to them, and only the people who should have access to them.
+- [SearchSpring](): SearchSpring enhances E-Commerce sites with rich and engaging shopping solutions that significantly improve product findability.
+- [SLI Systems](): SLI Learning Search patented technology learns from visitors' site search activity and clickthroughs to deliver the most relevant results, so your customers find what they want quickly.
+- [Swiftype](): Swiftype is a hosted search solution that lets site owners deliver powerful, customizable search for their website or mobile app with just a few lines of code.
+- [Cogito](): Cogito Search Explore Engine provides an innovative way to access to information and gain business intelligence. From managing internal knowledge to capturing intelligence from Big Data or automatically monitoring, detecting and analyzing sentiment expressed in social media.
+- [Mindbreeze](): Mindbreeze is commited to the creation of pioneering search based technology. Our groundbreaking services enable you to illuminate every piece of relevant information easily and quickly across all platforms.
+- [PolySpot](): PolySpot Enterprise Search is a search and browsing solution that offers users a full overview of information from multiple sources, stored both within and outside the company.
+- [Dieselpoint](): Dieselpoint Search is search and navigation software for enterprise data including document collections, databases, and XML.
+- [Algolia](): Alglia is an API built for developers that delivers relevant results in your mobile apps and websites from the first keystroke.
+- [SearchBlox Search Server](): 
+- [EasyAsk](): EasyAsk is a provider of e-commerce site search, navigation and merchandising solutions for e-retail, mobile commerce and B2B commerce.
+- [Texifter](): Web-based tools for text analytics via machine-learning. Search, filter, cluster, human code &amp; machine classify social media and survey data.
+- [theGist](): theGist brings together the information you manage across multiple platforms, and multiple teams. Get context around a conversation that you missed, or a meeting that you weren’t a part of, quickly, and in a way that you want to absorb it.
+- [Funnelback](): Funnelback is a search platform that enables you to go further, faster, with tangible insights that help you transform your business.
+- [Xendo](): Hosted Enterprise Search
+- [3RDi Search](): 3RDi "Third Eye" Enterprise Platform is a comprehensive suite of products for all your Enterprise Search needs offering best-in-class solutions for Content Discovery, Semantic Enrichment, Governance, Analytics, Relevancy Management and Automated Testing.
+- [Pyramid eXpeditor](): Developed to help manage the case driven process, Pyramid eXpeditor for Case (PX for Case) is a set of add-ons that extend the functionality of IBM Case Manager.
+- [Exselo Desktop](): A business productivity desktop search tool that helps you with your informational and operational needs. It indexes documents/emails available from your computer and Outlook for quickly finding relevant information through a interface both on your desktop and inside of Outlook.
+- [SearchYourCloud](): With one request, SearchYourCloud searches your desktop, email, cloud stores, &amp; databases to find any file, anywhere, from any device.
+- [Amazon Elasticsearch Service](): Amazon Elasticsearch Service is a managed service that deploy, operate, and scale Elasticsearch in the AWS Cloud, it is an open-source search and analytics engine for use cases such as log analytics, real-time application monitoring, and click stream analytics.
+- [Amazon CloudSearch](): Amazon CloudSearch is a cloud=based AWS managed service that makes it simple and cost-effective to set up, manage, and scale a search solution for a website or application.
 
 
 ### Data Analytics
@@ -326,7 +450,18 @@ Microsoft Azure
 ### Data Visualization
 - [Tableau Desktop](http://www.tableau.com/products/desktop)
   - N/A
-
+- [SAP BusinessObjects Lumira](): 
+- [iDashboards](): 
+- [Statpedia](): 
+- [segment.io](): 
+- [Google Chart Tools](): 
+- [Megalytic](): 
+- [Grow](): 
+- [Geckoboard](): 
+- [Highcharts](): 
+- [Roambi](): 
+- [Klipfolio]():
+  
 ### Social Media
 - [Hootsuite](http://hootsuite.com): A social media management system for businesses and organizations 
   - N/A
@@ -334,7 +469,47 @@ Microsoft Azure
 - [Looker](http://looker.com):  a data exploration and discovery business intelligence platform.
   - N/A
 
-
-
+### Other Analytics
+- [BizTalk360](): BizTalk360 addresses all the operational, administration and monitoring requirements of Microsoft BizTalk Server environments. It's a single pane of glass into your BizTalk Environments.
+- [Amazon Kinesis](): Amazon Kinesis is a part of the AWS suite of products and used to monitor real-time streaming data in the AWS cloud.
+- [Prism by Prism Skylabs](): Prism is a cloud service transforms any video camera into a business intelligence tool that can be accessed from any device to audit, manage, and optimize their real-world businesses.
+- [SAS Base](): SAS Base is a programming language software that provides web-based programming interface; ready-to-use programs for data manipulation, information storage and retrieval, descriptive statistics and reporting; a centralized metadata repository; and a macro facility that reduces programming time and maintenance headaches.
+- [ReportsNow](): JD Edwards Reporting
+- [ProfitWell](): ProfitWell provides subscription and SaaS metrics that are 100% accurate and absolutely free. Sign up takes 1-click, giving you access to your monthly recurring revenue, churn, lifetime value, and all of your other necessary subscription financial metrics. Integrates with Stripe, Braintree, Zuora, Chargebee, Chargify, Recurly, and others with the ProfitWell API.
+- [Global Software](): Global Software provides Microsoft Excel-based automation solutions for the world's leading ERP platforms, including SAP, Oracle, and Lawson.
+- [SAS/ACCESS® 9.4 Interface to PC Files](): SAS/ACCESS is a 9.4 Interface to PC Files that is Seamless, transparent data access., Flexible query language support, Wide range of performance, Metadata integration, Optimization, and Push-down processing to the database
+- [Quill Engage](): Quill Engage is a free application that analyzes your Google Analytics data and provides insightful website reports in plain-English. Receive weekly and monthly reports delivered right to your inbox on the most important and interesting insights on your website performance. Reports include in-depth analysis on site traffic, referral sources, goals &amp; conversion, paid search, Ecommerce and much more.
+- [SAS IML](): SAS IML is an interactive statistical programming language for innovative, custom analyses. it translate mathematical formulas into innovative programs for data analysis, optimization and matrix computations.
+- [BIView for NAV](): Self service business intelligence tool for Microsoft Dynamics NAV (Navision) Clients. Instant access to live data with predefined dashboards on Desktop and Mobile extensions.
+- [Semantria](): Semantria is a text &amp; sentiment analysis API that can easily be integrated with your apps or accessed with our custom Excel Add-in
+- [Motive Data Management Platform](): The Motive Data Management Platform (DMP) simplifies the collection, processing and management of big data to allow focus on using big data to deliver actionable business value from sophisticated analytics.
+- [ProntoForms](): Mobile data collection application for smartphones and tablets. Instantly connects data to back office or cloud services, as well as emails custom form PDFs to stakeholders and customers.
+- [Manage Metrix](): Manage Metrix is a business intelligence solution that centralizes your data into one data warehouse that allows you to harness the wealth of data in your organization presenting you with analyses that monitor preforance to identify opportunities.
+- [StacksWare](): StacksWare is the premier agentless software asset management (SAM) solution for VDI clusters.
+- [SkyStats](): SkyStats is an all-in-one business dashboard for WordPress.
+- [Socrata Platform](): Socrata Open Platform is a secure place for your data with a redundant setting in the cloud where it is online and machine-readable for innovators to see.
+- [SkyGlue](): Supercharge your Google Analytics with more insightful data without IT.
+- [Reporting Workbench](): Reporting Workbench is a fast time-to-value reporting solution designed exclusively for the E-Business Suite. Reporting Workbench delivers powerful operational, adhoc, and dashboard analytics, all in one package, and is completely integrated with the Oracle E-Business Suite application. The Reporting Workbench line delivers a comprehensive, easy-to-use reporting solution for corporations of all sizes.
+- [AnswerRocket](): AnswerRocket uses Search-Powered Analytics™ to give business users direct access to data. Ask natural language questions to instantly get robust data visualizations.
+- [PROLab](): PROLab is a software family for planning, organizing, performing and analyzing interlaboratory tests - that is, for both proficiency tests assessing the performance of laboratories (typically acc. to ISO 13528) and collaborative studies for the validation of analytical methods.
+- [Luminoso Analytics](): Luminoso Analytics surfaces drivers of satisfaction, perception, and topics of discussion that can only be gleaned from unstructured data - so you can measure, adjust, and act with unrivaled impact and agility.
+- [Mobee](): Mobee is a mobile App &amp; Analytics platform for Retailers and Brand Manufacturers that enables consumers to collect custom, real time data for businesses.
+- [Skedler](): Skedler is a powerful report scheduling solution that allows organizations to schedule, generate, and distribute Kibana dashboards periodically to various stakeholders. It is simple to install and is designed to work seamlessly with your existing Kibana/Elasticsearch installation.
+- [Quirkos](): Quirkos helps users to explore and analyze qualitative text data, from surveys, research projects and customer feedback. It can help researchers manage many sources of text, code the text for significant themes, and visualize coded data to help find insight.
+- [Measurabl](): Measurabl is software built to help you collect, report and improve upon non-financial data so you can focus on what you do best.
+- [Mohiomap](): Mohiomap helps you visualize, understand, and manage all your important information stored in the Cloud. Currently available for Dropbox, Box, Evernote, and Google Drive.
+- [Beats](): Beats is the platform for building lightweight, open source data shippers for many types of data you want to enrich with Logstash, search and analyze in Elasticsearch, and visualize in Kibana.
+- [Ideata analytics](): Ideata analytics provides an easy to use analytics platform for users to ingest, prepare and analyze data. With out of box connectors to numerous data sources - including Hadoop, Amazon Redshift, Amazon S3, Google BigQuery, relational databases, excel sheets, flat files etc. - it gives users direct access to their data to perform deep dive exploration. It provides a self-service data preparation engine for users to perform data cleaning and enrichment on the fly. Using its drag and drop functionality, user can quickly visualize their data and interactively find hidden insights in it.
+- [Control](): Control is an analytics and alerts platform for SaaS, subscription and eCommerce businesses that enabling instant intelligence anywhere via Android, iOS, and web, it consolidates data from multiple sources such as PayPal and Stripe to provide real-time revenue and customer information, fraud detection, and key metrics customized to business type.
+- [Euclid Analytics](): Euclid Analytics connects the physical world through Wi-Fi analytics and traffic counters it has powers personalization, long-lasting loyalty and online-to-offline attribution for retailers, malls and restaurants that empower leading brands to design the perfect customer experience for their brick-and-mortar locations and drive better business results.
+- [Botanalytics](): Botanalytics is a conversational analytics tool that helps bot owners to improve human-to-bot communication, identify bottlenecks, filter conversations, and understand engagement.
+- [Mode Analytics](): Mode is an analytics platform that help data analysts and data scientists analyze, visualize, and share data.
+- [Leady for Mailchimp](): Leady is an app that recognizes corporate visitors to website and give new opportunities that can easily turn into new customers.
+- [Motadata](): Motadata is an IT analytics software that derives business insights through real-time processing, correlation and intelligent visualization of NOC.
+- [Composable Analytics](): Composable Analytics is a single cohesive ecosystem for data orchestration and analytics.
+- [AWS Trusted Advisor](): AWS Trusted Advisor is an online resource that help to reduce cost, increase performance, and improve security by optimizing AWS environment and provides real time guidance to help provision resources following AWS best practices.
+- [Idea Market](): Exago's US patented model combines idea management software and expert services that activate organization's collective intelligence to solve pressing business challenges: from operational efficiency to new sources of revenue.
+- [Databox](): Databox is a Mobile Business Analytics platform for Analysts, CEOs, and decision makers that need quick and easy access to their data.
+- [Trivaeo Precision](): Trivaeo Precision is a Practice Management solution that automate any key process in business, lowering operating costs by using staff more efficiently, increasing margins and billable hours and negating risks associated with change.
 
 
