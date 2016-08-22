@@ -196,6 +196,33 @@ Server virtualization software allows an administrator to convert one physical s
 ### Storage Management
 Storage management software allows businesses to manage existing storage requirements and predict future needs. Businesses use this software to optimize storage capacity by moving nonessential data to less expensive storage options.
 
+- [WinSCP](): WinSCP is an open source free SFTP client, FTP client, WebDAV client and SCP client for Windows (only for Windows). Its main function is file transfer between a local and a remote computer. Beyond this, WinSCP offers scripting and basic file manager functionality.
+- [Amazon Glacier](): Amazon Glacier is a part of Amazon's AWS suite of products. Glacier long-term data storage and backup service.
+- [ExpanDrive](): ExpanDrive acts just like a USB drive plugged into your computer. Open, edit, and save files to remote computers from within your favorite programs???even when they are on a server half a world away.
+- [Red Hat Gluster Server (formerly Storage Server)](): Red Hat's open software solution for scale-out network-attached storage lets you manage exponential data growth at a fraction of the cost of other storage solutions.
+- [3PAR Management Console](): The HP 3PAR Management Console is HP 3PAR StoreServ legacy management console that brings simplicity, usability, and visibility to storage management by allowing you to administer your HP 3PAR Storage Systems, including remote systems used for replication.
+- [RS Photo Recovery](): Recover deleted digital pictures quickly and easily! RS Photo Recovery comes packed with features. Its sophisticated file recovery algorithms can extract deleted pictures from damaged, inaccessible and formatted disks and memory cards. Add to that the complete RAW format support, instant previews and thumbnail display allowing browsing deleted pictures as if they were still sitting in your photo album, and you'll get an extremely sound package.
+- [EMC Control Center](): ControlCenter enables enterprises to enhance performance and improve storage utilization as they adopt technologies and processes across a virtual infrastructure.
+- [SANsymphony](): SANsymphony-V solves the “Big Problem” standing in the way of your virtualization projects.
+- [SolarWinds Storage Manager](): SolarWinds Storage Manager helps you keep a sharp eye on the performance and capacity of your end-to-end physical and virtual storage infrastructure—from VM to spindle!
+- [InvGate Assets](): Tightly control and comprehensively manage IT infrastructure
+- [infinidat](): InfiniBox, high performance enterprise storage, eliminates performance, availability and scalability issues to accelerate critical business applications.
+- [Terafyle](): Terafyle allows you to instantly access Photos, Music, Videos and files on remote computers, servers and NAS drives. With a simple swipe, these files are copied to your favorite cloud storage services.
+- [Sync.com](): Sync is a fully encrypted, zero-knowledge cloud service that makes it easy to store, share and access your files from everywhere - your privacy guaranteed.
+- [LogCabin](): LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage.
+- [Replicator](): Replicator is a software tool that combines the best features of typical replication (mirroring) and traditional tape backup (archiving). First, Replicator mirrors files and directories on client machines at certain times, or at time intervals set by the network administrator.
+- [Northern Storage Suite](): Northern Storage Suite is a software solution that enables organizations to control the use of storage resources; specifically the way in which users exploit this resource.
+- [ETERNUS](): FUJITSU ETERNUS® Management Software
+- [VirtualWisdom](): VirtualWisdom platform provides visibility into real-time performance, health, and utilization metrics throughout the open systems stack.
+- [Cleversafe](): Cleversafe has reinvented storage software at petabyte scale and beyond to deliver unprecedented results.
+- [Veritas Operations Manager](): Veritas Operations Manager is a comprehensive management platform, for Storage Foundation and Cluster Server environments, that helps you optimize your data center assets, with a solution to centralize visibility and control.
+- [CA Storage Resource Manager](): Reduce your storage costs and administration time by simplifying the management of complex enterprise storage environments, maximizing your use of existing storage resources and ensuring the protection and high availability of critical business information.
+- [Storage Essentials](): With HP Storage Essentials, you can manage complexity and growth, improve storage utilization and reduce cost, and align storage service to business needs.
+- [NetDirector](): SaaS Cloud-based Data and Document Exchange. Our state-of-the-art platform enables disparate and incompatible systems to seamlessly communicate worldwide. NetDirector offers complete support for industry communications and file format options including: web services, FTP/s, HTTP/s, XML, flat files, spreadsheets, email and many others.
+- [Skyhatch Datarooms](): Skyhatch helps enterprise better manage information.
+- [GridBank Cloud Storage](): GridBank Cloud Storage delivers hardware-agnostic object-storage for internal and external cloud storage-as-a-service providers, offering high availability data access, cloud synchronization, business agility and workforce mobility
+
+
 ### Transactional Email
 Transactional email software sends a message based on an action completed by the recipient. This software integrates with other marketing solutions like CRM and email marketing.
 
